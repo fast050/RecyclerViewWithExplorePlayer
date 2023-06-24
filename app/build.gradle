@@ -54,6 +54,10 @@ dependencies {
     kapt 'com.github.bumptech.glide:compiler:4.11.0'
     //circleImage
     implementation 'de.hdodenhof:circleimageview:3.1.0'
+    //pull refrech
+    implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.1.0"
+
+
 
 
 }
